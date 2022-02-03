@@ -1,2 +1,3 @@
-# 100-Days-of-Code
-Hi, I'm currently doing the 100 days of code challenge.
+#100 Days of Code: The Complete Python Pro Bootcamp for 2022 
+
+Hi, I'm currently trying to learn how to code using various sources along with doing the 100 days of code challenge.
